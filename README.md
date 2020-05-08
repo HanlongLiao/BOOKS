@@ -6,4 +6,6 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 中文
   - 英文
   - 源代码
-## Deep-learning & Reforce-learning
+## Deep-learning & Reinforcement-learning
+- 强化学习精要：Tensorflow实现
+- Reinforcement Learning: An Introduction
