@@ -1,6 +1,6 @@
 # Books of CS
 https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBbU2JJoNWNihsTQUwBQQqLrql6HBgxhS5Qen40xw?e=m8kUcL
-## python
+## Python
 - 流畅的python
 - python 基础教程
   - 中文
@@ -17,3 +17,9 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 英文版
 - 强化学习精要：Tensorflow实现
 - Reinforcement Learning: An Introduction
+## Math
+- 经典博弈论教程-刘进
+- 矩阵分析与应用
+  - 习题与答案
+- 同济大学高等数学教程
+- 博弈论
