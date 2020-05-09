@@ -17,6 +17,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 英文版
 - 强化学习精要：Tensorflow实现
 - Reinforcement Learning: An Introduction
+- 深度学习入门：Pytorch
 ## Math
 - 经典博弈论教程-刘进
 - 矩阵分析与应用
