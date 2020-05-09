@@ -23,3 +23,6 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 习题与答案
 - 同济大学高等数学教程
 - 博弈论
+  - 中文版
+  - 英文版
+- Convex Optimization
