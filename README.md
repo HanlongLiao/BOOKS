@@ -8,8 +8,10 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 源代码
 - Python数据科学手册
 ## Machine learning
-- 统计学习方法（第1版）
-- 统计学习方法（第2版）
+- 统计学习方法
+  - 第一版
+  - 第二版
+  - PPT
 - A First Course in Machine Learning - Rogers (2nd)
 - Foundations of Machine Learning
 ## Deep-learning & Reinforcement-learning
