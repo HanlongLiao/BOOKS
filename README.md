@@ -12,6 +12,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 第一版
   - 第二版
   - PPT
+- 智能优化方法
 - A First Course in Machine Learning - Rogers (2nd)
 - Foundations of Machine Learning
 ## Deep-learning & Reinforcement-learning
