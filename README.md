@@ -1,12 +1,13 @@
 # Books of CS
 https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBbU2JJoNWNihsTQUwBQQqLrql6HBgxhS5Qen40xw?e=m8kUcL
-## Python
+## Python&CPP&Java
 - 流畅的python
 - python 基础教程
   - 中文
   - 英文
   - 源代码
 - Python数据科学手册
+- C++ primer
 ## Machine learning
 - 统计学习方法
   - 第一版
@@ -22,7 +23,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 - 强化学习精要：Tensorflow实现
 - Reinforcement Learning: An Introduction
 - 深度学习入门：Pytorch
-## Math
+## Math&Algorithm
 - 经典博弈论教程-刘进
 - 矩阵分析与应用
   - 习题与答案
@@ -35,3 +36,4 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 中文
   - 习题与答案
 - Introduction to Probability Models(11th edition)
+- 算法导论
