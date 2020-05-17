@@ -1,5 +1,8 @@
 # Books of CS
 https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBbU2JJoNWNihsTQUwBQQqLrql6HBgxhS5Qen40xw?e=m8kUcL
+## Computer System
+- 计算机体系结构：量化方法研究
+- 深入理解计算机系统
 ## Python&CPP&Java
 - 流畅的python
 - python 基础教程
