@@ -3,7 +3,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 ## Computer System
 - 计算机体系结构：量化方法研究
 - 深入理解计算机系统
-## Python&CPP&Java
+## Python & CPP & Java
 - 流畅的python
 - python 基础教程
   - 中文
@@ -26,7 +26,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 - 强化学习精要：Tensorflow实现
 - Reinforcement Learning: An Introduction
 - 深度学习入门：Pytorch
-## Math&Algorithm
+## Math & Algorithm
 - 经典博弈论教程-刘进
 - 矩阵分析与应用
   - 习题与答案
