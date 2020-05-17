@@ -34,3 +34,4 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 英文
   - 中文
   - 习题与答案
+- Introduction to Probability Models(11th edition)
