@@ -17,6 +17,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 - JAVA核心技术卷I
 - JAVA核心技术卷II
 - JAVA编程思想
+  - 思维导图 
 ## Machine learning
 - 统计学习方法
   - 第一版
