@@ -16,7 +16,6 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 - C++ primer
 - 利用python进行数据分析
 - JAVA核心技术卷I
-- JAVA核心技术卷II
 - JAVA编程思想
   - 思维导图 
 ## Machine learning
