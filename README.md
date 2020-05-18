@@ -3,8 +3,9 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 ## Computer System
 - 计算机体系结构：量化方法研究
 - 深入理解计算机系统
+  - 中文版
+  - 英文版
 - Computer Networking: A Top-Down Approach
-- Computer systems: A programmer's perspective
 ## Python & CPP & Java
 - 流畅的python
 - python 基础教程
