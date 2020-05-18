@@ -17,6 +17,8 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 - 利用python进行数据分析
 - JAVA核心技术卷I
 - JAVA编程思想
+  - 中文版
+  - 英文版
   - 思维导图 
 ## Machine learning
 - 统计学习方法
