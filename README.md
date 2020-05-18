@@ -11,6 +11,7 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 源代码
 - Python数据科学手册
 - C++ primer
+- 利用python进行数据分析
 ## Machine learning
 - 统计学习方法
   - 第一版
@@ -40,3 +41,4 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 习题与答案
 - Introduction to Probability Models(11th edition)
 - 算法导论
+- 数据结构与算法：C++描述
