@@ -7,6 +7,9 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
   - 英文版
 - Computer Networking: A Top-Down Approach
 ## Coding Language: python, cpp, java
+- Thinking in C++
+  - 第一卷
+  - 第二卷
 - 流畅的python
 - python 基础教程
   - 中文
