@@ -52,3 +52,6 @@ https://biteducn-my.sharepoint.com/:f:/g/personal/1120151880_bit_edu_cn/Erg8NsBb
 - Introduction to Probability Models(11th edition)
 - 算法导论
 - 数据结构与算法：C++描述
+- 计算理论导引
+  - 中文版
+  - 英文版
